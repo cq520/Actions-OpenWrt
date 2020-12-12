@@ -1,0 +1,1 @@
+https://github.com/cq520/OpenWrt-MT7621-Radmi-ac2100.git
